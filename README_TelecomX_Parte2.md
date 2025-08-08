@@ -23,8 +23,8 @@ O processo envolve:
 
 ## 📂 Estrutura do Projeto
 ```bash
-├── dados_df.csv                  # Dataset principal
-├── Notebook_Reorganizado.ipynb   # Notebook com análise completa
+├── dados_df.csv                   # Dataset principal
+├── TelecomX_Parte2.ipynb          # Notebook com análise completa
 ├── README.md                      # Documentação do projeto
 ```
 
